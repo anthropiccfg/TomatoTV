@@ -5,8 +5,8 @@ https://anthropiccfg.github.io/TomatoTV
 # Compatible devices
 * TV, computer, mobile phone, tablet and more
 
-# Canais ao vivo na sua Smart TV, tablet ou celular. Tudo na melhor qualidade, sem cabos, sem instalação e com liberdade pra assistir onde e quando quiser.
+# Live channels on your Smart TV, tablet, or mobile phone. All in the best quality, without cables, without installation, and with the freedom to watch wherever and whenever you want.
 
-# Quer ver a Programação?:
+# Want to see the schedule?
 # https://meuguia.tv/
 
